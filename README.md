@@ -5,7 +5,7 @@ I'm a self-taught software engineer with a relentless passion for automation and
 
 ## 💻 Skills
 - **Python** 🐍
-- **Numpy** 🔢
+- **Automation** ⚙️
 - **Matplotlib** 📊
 - **Bash** 🖥️
 - **C#** ⚙️
