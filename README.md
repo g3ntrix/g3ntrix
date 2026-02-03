@@ -1,26 +1,27 @@
-# 👋 Hi there, I'm Komar!
+## 👋 Hi, I'm Komar
 
-## 📝 About Me
-I'm a self-taught software engineer with a relentless passion for automation and efficiency. With a knack for problem-solving, I aim to build solutions that are not just functional, but also reliable and scalable. My journey into the world of coding has been guided by a single-minded goal: to make an impactful difference. Whether it's automating cloud instances or setting up real-time monitoring systems, I bring the same enthusiasm and dedication to each project I tackle.
+I'm a full‑stack developer and backend‑focused software engineer who enjoys turning real‑world problems into reliable, scalable systems. I care about clean architecture, maintainable code, and building products that people actually use.
 
-## 💻 Skills
-- **Python** 🐍
-- **Automation** ⚙️
-- **Matplotlib** 📊
-- **Bash** 🖥️
-- **C#** ⚙️
-- **MQL4/MQL5** 💹
-- **Linux** 🐧
-- **HTML** (basic) 🌐
+## 💻 What I Work With
 
-## 🚀 Projects
-I've had the privilege of contributing to a variety of fascinating projects, including:
-- `oci_instance_automation`: Streamlining Oracle Cloud Infrastructure (OCI) instance management through Python and Shell scripts.
-- `currency_monitor`: A real-time cryptocurrency monitoring and alerting system crafted in Python.
-- `V2Ray Server Stats Bot`: A Telegram bot designed to fetch and visualize stats from a V2Ray server database.
+- **Backend**: PHP, Python, Go, RESTful APIs, authentication (JWT/OAuth), database design
+- **Web**: HTML, CSS (including RTL), JavaScript (Vanilla JS), React, WordPress (themes & plugins)
+- **Data & Cloud**: SQL/NoSQL databases, automation, cron jobs, OCI and other cloud platforms
+- **Tools & Practices**: Git/GitHub, Docker, Linux, testing, performance optimization, monitoring and alerting
 
-## 🌐 Connect with Me
-Feel free to connect with me on Instagram.
+## 🔧 What I Like Building
 
-## 🎮 Hobbies
-When I'm not lost in the world of code, I love to balance my life with other pursuits. Whether it's making a splash in the pool 🏊, strumming my guitar 🎸, or dominating in Call of Duty and FIFA ⚽🎮, I know how to have a good time.
+- Production‑ready backends and APIs for web platforms and dashboards  
+- Automation tools and bots that remove manual work  
+- Custom dashboards, admin panels, and role‑based portals  
+- Systems that are observable (logs, alerts) and easy to maintain over time  
+
+## 🌱 Currently Exploring
+
+- Better patterns for scalable backend architectures  
+- Cloud‑native tooling and containerized deployments  
+- Advanced automation and integration between different platforms  
+
+## 📫 Get in Touch
+
+If you think my skill set fits what you're building or you just want to talk tech, feel free to reach out via the links on my GitHub profile.
