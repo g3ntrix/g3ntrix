@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Komar
+## 👋 Hi
 
 Full‑stack developer and backend‑focused software engineer. I like turning real problems into reliable, scalable systems, clean architecture, maintainable code, and products people actually use.
 
